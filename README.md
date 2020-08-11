@@ -1,7 +1,7 @@
 ### Hi there 👋
 - :elephant: [Join PostgreSQL.TW](https://www.facebook.com/groups/pgsql.tw)
 - 😁 [隨緣 - 也許你會不小心點到](https://ycku.csie.org/)
-- 📫 How to reach me: https://www.linkedin.com/in/ycku/
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ycku/)
 
 <!--
 **ycku/ycku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
