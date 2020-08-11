@@ -1,6 +1,7 @@
 ### Hi there 👋
 - :elephant: [Join PostgreSQL.TW](https://www.facebook.com/groups/pgsql.tw)
 - 😁 [隨緣 - 也許你會不小心點到](https://ycku.csie.org/)
+- 💬 [解決不了問題，就解決提出問題的人](https://medium.com/@ycku)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ycku/)
 
 <!--
